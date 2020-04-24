@@ -1,1 +1,1 @@
-# This is Statistics course in Python
+# This is Statistics course in Python from Hackerrank
