@@ -1,4 +1,4 @@
-#without using numpy
+#standard devaition without using numpy
 n=int(input())
 x=list(map(int, input().split(" ")))
 x.sort()

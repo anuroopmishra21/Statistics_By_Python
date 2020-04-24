@@ -1,4 +1,4 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
+# code for wieghted mean
 n=int(input())
 x=list(map(int, input().split(" ")))
 y=list(map(int, input().split(" ")))
