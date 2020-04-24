@@ -1,4 +1,4 @@
-# code for wieghted mean
+# code for wieghted mean in python
 n=int(input())
 x=list(map(int, input().split(" ")))
 y=list(map(int, input().split(" ")))
