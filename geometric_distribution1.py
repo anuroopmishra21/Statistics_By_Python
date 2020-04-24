@@ -1,4 +1,4 @@
-#code for geometric distribution
+#code for geometric distribution 1
 n,d=list(map(int, input().split(" ")))
 t=int(input())
 p=n/d
