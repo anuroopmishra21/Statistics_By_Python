@@ -1,4 +1,4 @@
-#code for central limit theorem 1 using error function
+#code for central limit theorem 1 and 2 using error function
 import math
 
 x = float(input())
