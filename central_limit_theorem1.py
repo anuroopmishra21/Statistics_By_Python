@@ -1,10 +1,10 @@
 #code for central limit theorem 1 using error function
 import math
 
-x = int(input())
-n = int(input())
-mu = int(input())
-sigma = int(input())
+x = float(input())
+n = float(input())
+mu = float(input())
+sigma = float(input())
 
 mu_sum = n * mu 
 sigma_sum = math.sqrt(n) * sigma
