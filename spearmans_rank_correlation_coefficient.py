@@ -1,0 +1,1 @@
+#code for Spearman's Rank Correlation Coefficient for two data sets with all unique elements 
