@@ -1,4 +1,4 @@
-#code for the least square regression line
+#code for the least square regression line in the simplest way possible
 s1=list(map(int, input().split(" ")))
 s2=list(map(int, input().split(" ")))
 s3=list(map(int, input().split(" ")))
