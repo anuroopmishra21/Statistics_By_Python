@@ -1,1 +1,1 @@
-#code for multiple linear regression
+#code for multiple linear regression using numpy
